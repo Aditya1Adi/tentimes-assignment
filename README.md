@@ -74,4 +74,4 @@ You can retrieve the resulting data in CSV format by accessing the "/export" pag
 
 
 ## Contributors
-- [Aditya Kumar]https://github.com/Aditya1Adi
+- [Aditya Kumar](https://github.com/Aditya1Adi)
