@@ -8,7 +8,7 @@ This project aims to build an application that collects news articles from vario
 ## Installation
 1. Clone the repository:
    ```
-   git clone <repository_url>
+   git clone https://github.com/Aditya1Adi/tentimes-assignment
    ```
 
 ## Usage
